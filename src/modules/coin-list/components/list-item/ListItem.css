@@ -1,0 +1,21 @@
+.content {
+  display: flex;
+  width: 100%;
+}
+
+.item {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.ticker {
+  margin-left: 10px;
+}
+
+.price {
+  justify-self: self-end;
+  margin-left: auto;
+}

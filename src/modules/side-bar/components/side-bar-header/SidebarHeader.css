@@ -1,0 +1,18 @@
+.sideBarHeader{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-self: flex-start;
+    margin-bottom: auto;
+    align-items: center;
+}
+
+.heading{
+    justify-self: flex-start;
+    margin-right: auto;
+}
+
+.closeBtn{
+    justify-self: flex-end;
+    margin-left: auto;
+}

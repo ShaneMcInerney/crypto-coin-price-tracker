@@ -1,0 +1,9 @@
+.fiatSelector {
+  display: flex;
+}
+
+.fiatOptions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

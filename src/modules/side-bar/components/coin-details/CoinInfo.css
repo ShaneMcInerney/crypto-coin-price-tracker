@@ -1,0 +1,12 @@
+
+.details{
+  align-self: center;
+  justify-self: center;
+  margin-bottom: auto;
+}
+
+.detail{
+    list-style: none;
+    margin-bottom: 5px;
+    margin-top: 0;
+  }
